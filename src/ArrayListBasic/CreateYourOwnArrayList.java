@@ -23,7 +23,7 @@ public class CreateYourOwnArrayList {
                 "Mosh Hamedani", "Paul Lee", "Simon & Schuster");
 
         Book book2 = new Book(4, 601, "Harry Potter",
-                "JK Rolling", "Mosh ", "HarperCollins");
+                "JK Rolling", "Ron Weasely", "HarperCollins");
 
         Book book3 = new Book(6, 102, "Discrete Mathematics",
                 "George R. R. Martin", "Mike Dane", "Hachette Book Group");
